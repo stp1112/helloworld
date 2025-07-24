@@ -22,5 +22,5 @@ while True:
     if answer == "Дніпро":
         count += 1
         print("Молодець правильно")
-        print(f"Правильних відповідей: {count}")
+    print(f"Правильних відповідей: {count}")
     break
